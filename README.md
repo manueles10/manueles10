@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @manueles10
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning HTML and CSS
+- 💞️ I’m looking to collaborate on any project I can learn from
+- 📫 How to reach me manuellara2010@gmail.com
